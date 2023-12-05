@@ -1,2 +1,3 @@
-# PAC_Individual_difference
-The project for functional connectivity individual difference in the primary auditory cortex.
+# Reference
+The project for *Individual Variability in Functional Connectivity of Human Auditory Cortex*
+# Background
