@@ -1,6 +1,8 @@
 
 # Background
-
+We obtained a group-level auditory cortex (AC) mask, derived from the combination region of the manually delineated individualized planum temporale (PT) and Heschl’s gyrus (HG).
+We calculated the individual variability in the resting-state functional connectivity (rsFC) of the group AC and applied the spectral clustering algorithm based on this variability.
+Four subregions were obtained for both left and right AC. We also demonstrated the functional specialization of each subregion.
 
 # Clustering results with different gammas
 ![image](https://github.com/junhaols/Luo2023-AC-Individual-Variability/blob/main/Figures/Fig-gammas.png)
@@ -16,9 +18,10 @@
 - assign_labels = ‘discretize’
 - Other parameters are set as default.
 
-![image](https://github.com/junhaols/Luo2023-AC-Individual-Variability/assets/42667814/65802ac5-eafe-4728-a085-24729c1b1644)
-
-
+**The AC atlas files are in the folder:**
+- **fsLR32k: ~/bin/AC-Altas/fs_LR32k**
+- **MNI152-2mm: ~/bin/AC-Altas/MNI152**
+- **The label value 1,2,3,and 4 in these files represent the "Cluster1", "Cluster2","Cluster3" and "Cluster4", respectively.**
 
 ![image](https://github.com/junhaols/Luo2023-AC-Individual-Variability/blob/main/Figures/Final-AC-subregions.png)
 # Reference
