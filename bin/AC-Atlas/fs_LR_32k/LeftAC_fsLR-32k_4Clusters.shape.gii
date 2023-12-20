@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE GIFTI SYSTEM "http://www.nitrc.org/frs/download.php/115/gifti.dtd">
+<GIFTI Version="1" NumberOfDataArrays="1"><MetaData><MD><Name>AnatomicalStructurePrimary</Name><Value>CortexLeft</Value></MD><MD><Name>ParentProvenance</Name><Value>/HCP/hcpdb/build_ssd/chpc/BUILD/HCP_Staging/1430803822_100206/STRUCTURAL//100206/MNINonLinear/fsaverage_LR32k/100206.L.thickness.32k_fs_LR.shape.gii:
+/home/HCPpipeline/pipeline_tools/Pipelines/global/binaries/caret7/bin_rh_linux64/../exe_rh_linux64/wb_command -metric-resample /HCP/hcpdb/build_ssd/chpc/BUILD/HCP_Staging/1430803822_100206/STRUCTURAL//100206/MNINonLinear/Native/100206.L.thickness.native.shape.gii /HCP/hcpdb/build_ssd/chpc/BUILD/HCP_Staging/1430803822_100206/STRUCTURAL//100206/MNINonLinear/Native/100206.L.sphere.MSMSulc.native.surf.gii /HCP/hcpdb/build_ssd/chpc/BUILD/HCP_Staging/1430803822_100206/STRUCTURAL//100206/MNINonLinear/fsaverage_LR32k/100206.L.sphere.32k_fs_LR.surf.gii ADAP_BARY_AREA /HCP/hcpdb/build_ssd/chpc/BUILD/HCP_Staging/1430803822_100206/STRUCTURAL//100206/MNINonLinear/fsaverage_LR32k/100206.L.thickness.32k_fs_LR.shape.gii -area-surfs /HCP/hcpdb/build_ssd/chpc/BUILD/HCP_Staging/1430803822_100206/STRUCTURAL//100206/T1w/Native/100206.L.midthickness.native.surf.gii /HCP/hcpdb/build_ssd/chpc/BUILD/HCP_Staging/1430803822_100206/STRUCTURAL//100206/MNINonLinear/fsaverage_LR32k/100206.L.midthickness.32k_fs_LR.surf.gii -current-roi /HCP/hcpdb/build_ssd/chpc/BUILD/HCP_Staging/1430803822_100206/STRUCTURAL//100206/MNINonLinear/Native/100206.L.roi.native.shape.gii</Value></MD><MD><Name>ProgramProvenance</Name><Value>Connectome Workbench
+Version: Beta 0.85
+Qt Compiled Version: 4.8.4
+Qt Runtime Version: 4.8.4
+commit: 7a481e8daa6b61b160aac7645ac08e3a57ed1705
+commit date: 2014-05-15 19:41:22 -0500
+Compiled Debug: NO
+Operating System: Linux</Value></MD><MD><Name>Provenance</Name><Value>/home/HCPpipeline/pipeline_tools/Pipelines/global/binaries/caret7/bin_rh_linux64/../exe_rh_linux64/wb_command -metric-mask /HCP/hcpdb/build_ssd/chpc/BUILD/HCP_Staging/1430803822_100206/STRUCTURAL//100206/MNINonLinear/fsaverage_LR32k/100206.L.thickness.32k_fs_LR.shape.gii /HCP/hcpdb/build_ssd/chpc/BUILD/HCP_Staging/1430803822_100206/STRUCTURAL//100206/MNINonLinear/fsaverage_LR32k/100206.L.atlasroi.32k_fs_LR.shape.gii /HCP/hcpdb/build_ssd/chpc/BUILD/HCP_Staging/1430803822_100206/STRUCTURAL//100206/MNINonLinear/fsaverage_LR32k/100206.L.thickness.32k_fs_LR.shape.gii</Value></MD><MD><Name>WorkingDirectory</Name><Value>/HCP/hcpdb/build_ssd/chpc/BUILD/HCP_Staging/1430803822_100206/STRUCTURAL/100206</Value></MD></MetaData><LabelTable><Label Key="0" Red="1.0" Green="1.0" Blue="1.0" Alpha="0.0">???</Label></LabelTable><DataArray Intent="NIFTI_INTENT_NORMAL" DataType="NIFTI_TYPE_FLOAT32" ArrayIndexingOrder="RowMajorOrder" Dimensionality="1" Encoding="GZipBase64Binary" Endian="LittleEndian" ExternalFileName="" ExternalFileOffset="0" Dim0="32492"><MetaData><MD><Name>Name</Name><Value>#1</Value></MD><MD><Name>PaletteColorMapping</Name><Value>&lt;PaletteColorMapping Version="1"&gt;
+   &lt;ScaleMode&gt;MODE_AUTO_SCALE_PERCENTAGE&lt;/ScaleMode&gt;
+   &lt;AutoScalePercentageValues&gt;98.000000 2.000000 4.000000 96.000000&lt;/AutoScalePercentageValues&gt;
+   &lt;UserScaleValues&gt;-100.000000 0.000000 0.000000 100.000000&lt;/UserScaleValues&gt;
+   &lt;PaletteName&gt;videen_style&lt;/PaletteName&gt;
+   &lt;InterpolatePalette&gt;true&lt;/InterpolatePalette&gt;
+   &lt;DisplayPositiveData&gt;true&lt;/DisplayPositiveData&gt;
+   &lt;DisplayZeroData&gt;false&lt;/DisplayZeroData&gt;
+   &lt;DisplayNegativeData&gt;false&lt;/DisplayNegativeData&gt;
+   &lt;ThresholdTest&gt;THRESHOLD_TEST_SHOW_OUTSIDE&lt;/ThresholdTest&gt;
+   &lt;ThresholdType&gt;THRESHOLD_TYPE_OFF&lt;/ThresholdType&gt;
+   &lt;ThresholdFailureInGreen&gt;false&lt;/ThresholdFailureInGreen&gt;
+   &lt;ThresholdNormalValues&gt;-1.000000 1.000000&lt;/ThresholdNormalValues&gt;
+   &lt;ThresholdMappedValues&gt;-1.000000 1.000000&lt;/ThresholdMappedValues&gt;
+   &lt;ThresholdMappedAvgAreaValues&gt;-1.000000 1.000000&lt;/ThresholdMappedAvgAreaValues&gt;
+   &lt;ThresholdDataName&gt;&lt;/ThresholdDataName&gt;
+   &lt;ThresholdRangeMode&gt;PALETTE_THRESHOLD_RANGE_MODE_MAP&lt;/ThresholdRangeMode&gt;
+&lt;/PaletteColorMapping&gt;</Value></MD></MetaData><CoordinateSystemTransformMatrix><DataSpace>NIFTI_XFORM_UNKNOWN</DataSpace><TransformedSpace>NIFTI_XFORM_UNKNOWN</TransformedSpace><MatrixData>  1.000000   0.000000   0.000000   0.000000
+  0.000000   1.000000   0.000000   0.000000
+  0.000000   0.000000   1.000000   0.000000
+  0.000000   0.000000   0.000000   1.000000</MatrixData></CoordinateSystemTransformMatrix><Data>eJzt3UFugzAQBVDfLD4aR6+ihIqAicFgG6L3pNmkeOaPkpVZNAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALidGMLw+F69DfFVcVKhoOZnr7QjAAAAQC/j3cu0Ws+rOXvae7wfqjU3NavGzLUZZ87KzUjNqtH/407wQO/UPeHe3nvuKff0XWTJVcN+tXqV9tl8fqXHkfPFZ7eeiQfO7Hm+Qv3fs294Zu25xXuJ9+fxy99Sn+fed3gnAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABl/B8gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgN8zPD7r8uKy5jtsrZ7iO/uZ+/Tc6blPbqeS/Vob98jtU1QNzfc4da+GSnfI7t9QLktJtSR7uNTvfnPeG2W+U97WWe/yu/21jGFaDd0tW7hArmEl16IaZ5rmulqexXfXIUvye2sslaVnhqHz/B56zQWA8/wBg087eg==</Data></DataArray></GIFTI>
