@@ -4,9 +4,11 @@
 % download surfstat: https://www.math.mcgill.ca/keith/surfstat/
 surf_stat_path = '';
 addpath(genpath(surf_stat_path))
-% 
+% download gifti: https://github.com/gllmflndn/gifti
+gifti_path = '';
+addpath(genpath(gifti_path))
+% The code path
 addpath(genpath('/Users/fiona/Library/CloudStorage/OneDrive-mail.bnu.edu.cn/Project/PAC_Individual_difference/AC_github/bin/scripts/spectral_clustering'))
-
 
 %% surface base in the direction ~/surf
 surfFile_l = '/Users/fiona/Library/CloudStorage/OneDrive-mail.bnu.edu.cn/Project/Prediction/Article/View_gii/fsLR_32K/S1200.L.inflated_MSMAll.32k_fs_LR.surf.gii'
