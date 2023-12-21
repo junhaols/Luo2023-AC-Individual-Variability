@@ -26,7 +26,7 @@ four subregions for both left and right ACs. We also demonstrated the functional
 ![image](https://github.com/junhaols/Luo2023-AC-Individual-Variability/blob/main/Figures/Final-AC-subregions.png)
 
 # Reference
-The project for *Individual Variability in Functional Connectivity of Human Auditory Cortex*
+To be updated: the biorxiv link for *Individual Variability in Functional Connectivity of Human Auditory Cortex*
 
 # Bugs and Questions
 Please contact Junhao Luo at junhaol@mail.bnu.edu.cn and Gaolang Gong at gaolang.gong@gmail.com.
